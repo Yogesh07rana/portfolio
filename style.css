@@ -1,0 +1,11 @@
+/* This file is for custom CSS that complements Tailwind CSS. */
+
+/* Apply a modern, clean font to the entire site */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Enable smooth scrolling for anchor links */
+html {
+    scroll-behavior: smooth;
+}
